@@ -4,7 +4,7 @@ Amibroker Plugin dengan Realtime datafeed BEI/IDX Bursa Efek Indonesia
 ![image](https://user-images.githubusercontent.com/62891924/124506322-96b36f80-ddf5-11eb-9358-5e503d692a30.png)
 
 
-Copy MiMuRealTime.dll ke C:\Program Files (x86)\AmiBroker\Plugins\
+Copy IDXRealTime.dll ke C:\Program Files (x86)\AmiBroker\Plugins\
 Copy Newtonsoft.Json.dll ke C:\Program Files (x86)\AmiBroker\
 
 Buka File -> Database Settings
