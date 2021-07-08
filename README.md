@@ -7,6 +7,18 @@ Amibroker Plugin dengan Realtime datafeed BEI/IDX Bursa Efek Indonesia
 Copy IDXRealTime.dll ke C:\Program Files (x86)\AmiBroker\Plugins\
 Copy Newtonsoft.Json.dll ke C:\Program Files (x86)\AmiBroker\
 
+buat folder database baru di C:\Program Files (x86)\AmiBroker\ beri nama foldenya DataRealtime
+
+![PilihDatabase](https://user-images.githubusercontent.com/62891924/124963484-12a5f580-e04a-11eb-8987-4cd947e1b612.jpg)
+ 
+buka file -> Open Database
+
+![PilihDatabase2](https://user-images.githubusercontent.com/62891924/124963559-2d786a00-e04a-11eb-91cc-11dbd7080b14.jpg)
+
+pilih folder DataRealtime yang tadi sudah dibuat lalu klik ok
+
+Setelah itu.
+
 Buka File -> Database Settings
 
 ![image](https://user-images.githubusercontent.com/62891924/124959665-a628f780-e045-11eb-8384-de20a060c821.png)
