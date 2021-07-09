@@ -30,3 +30,5 @@ Buka File -> Database Settings
 5. Klik Configure untuk mengimport seluruh list kode saham secara otomatis
 
 Amibroker Plugin Realtime datafeed Bursa Efek Indonesia siap digunakan
+
+Sumber: https://amibrokerbeiplugin.com/
