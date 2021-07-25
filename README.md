@@ -32,3 +32,17 @@ Buka File -> Database Settings
 Amibroker Plugin Realtime datafeed Bursa Efek Indonesia siap digunakan
 
 Sumber: https://amibrokerbeiplugin.com/
+
+amibroker saham indonesia
+data bei amibroker 
+data saham harian bei
+data saham bei 
+data idx amibroker 
+data saham harian 
+data saham idx 
+download data saham harian 
+data saham indo 
+cara import data saham ke amibroker 
+download data saham bei untuk amibroker
+data saham indonesia 
+
