@@ -22,12 +22,18 @@ Setelah itu.
 Buka File -> Database Settings
 
 ![image](https://user-images.githubusercontent.com/62891924/124959665-a628f780-e045-11eb-8384-de20a060c821.png)
-![image](https://user-images.githubusercontent.com/62891924/124960203-4717b280-e046-11eb-88f4-b19278b7eaed.png)
+![image](https://user-images.githubusercontent.com/62891924/129764061-e1ceda67-8470-4096-aa2b-124161793d10.png)
 
-1. Pastikan IDX RT Data Plug-in sudah dipilih pada bagian Data Source
-3. Sesuaikan Number of bars (jumlah data historical yang ingin ditampilkan), bebas diisi sesuai kebutuhan
-4. Pilih pada bagian Base time interval menjadi 1 Menit
-5. Klik Configure untuk mengimport seluruh list kode saham secara otomatis
+
+Pastikan IDX RT Data Plug-in sudah dipilih pada bagian Data Source
+
+1. Sesuaikan Number of bars (jumlah data historical yang ingin ditampilkan), bebas diisi sesuai kebutuhan
+2. Pilih pada bagian Base time interval menjadi 1 Menit
+3. Klik Intraday Setting, dan sesuaikan seperti gambar dibawah ini
+
+![image](https://user-images.githubusercontent.com/62891924/129764205-bb549e15-39e1-452d-913d-6049f460a272.png)
+
+4. Klik Configure untuk mengimport seluruh list kode saham secara otomatis
 
 Amibroker Plugin Realtime datafeed Bursa Efek Indonesia siap digunakan
 
